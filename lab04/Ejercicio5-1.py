@@ -1,6 +1,6 @@
 contador = 0
 suma = 0
-primerNumero = True
+
 while True:
     try:
          numero = input("Ingrese un número: ")
@@ -8,7 +8,6 @@ while True:
             break
          contador = contador + 1
          suma = suma + int(numero)
-
     except:
         print("Dato erróneo")
 
