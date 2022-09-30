@@ -1,0 +1,8 @@
+from email import message, message_from_bytes
+
+
+pizarra
+portátil
+mesas 
+pupitres
+ventana
